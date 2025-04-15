@@ -62,11 +62,11 @@ Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemler
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilknrgzll&show_icons=true&theme=radical&hide_title=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilknrgzll&theme=radical&hide_title=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilknrgzll&theme=radical&hide_title=true" width="45%" />
 </p>
 
 
