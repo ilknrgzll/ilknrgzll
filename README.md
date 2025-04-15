@@ -20,10 +20,6 @@ Ben İlknur Güzel, Bilgisayar Mühendisliği eğitimi alarak teorik bilgilerimi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical&hide_title=true&langs_count=5" width="45%" height="200px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilknrgzll&theme=radical" width="90%" />
-</p>
-
 ---
 
 ### 📫 Bana Ulaşın
