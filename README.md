@@ -73,9 +73,20 @@ Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemler
 ### 📫 Bana Ulaşın
 
 <p align="left">
-  <a href="mailto:ilknrgzl99@gmail.com"><img src="https://img.shields.io/badge/E-posta-Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ilknrgzl"><img src="https://img.shields.io/badge/LinkedIn-Profili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ilknrgzll"><img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+ ### 📫 İletişim Bağlantıları
+
+<p align="center">
+  <a href="mailto:ilknrgzl99@gmail.com">
+    <img src="https://img.shields.io/badge/E-posta-Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ilknrgzl">
+    <img src="https://img.shields.io/badge/LinkedIn-Profili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ilknrgzll">
+    <img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 </p>
 
 ---
