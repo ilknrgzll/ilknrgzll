@@ -67,7 +67,7 @@ Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemler
 <p align="center">
    <a href="mailto:ilknrgzl99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ilknrgzl99@gmail.com-blue?style=flat&logo=gmail"></a>
    <a href="https://www.linkedin.com/in/ilknrgzl/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ilknrgzl-blue?style=flat&logo=linkedin"></a>
-  <a href="https://medium.com/@ilknrgzl" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-@ilknrgzl-000000?style=flat&logo=medium"></a>
+  <a href="https://medium.com/@ilknrgzl" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-@ilknrgzl-blue?style=flat&logo=medium"></a>
 </p>
 
 ---
