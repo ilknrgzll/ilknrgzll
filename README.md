@@ -5,6 +5,20 @@
 
 ---
 
+### 🖐️ Profilime Hoş Geldin!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DD66CC&size=25&center=true&vCenter=true&width=450&lines=Merhaba+ben+İlknur!;Full+Stack+Developer;React+%2F+.NET+Core+Tutkunu;Projelerimi+incelemeyi+unutma!" />
+</p>
+
+---
+
+### 📊 Ziyaretçi Sayacı
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilknrgzll&label=Ziyaretçi+Sayısı&color=blue&style=flat" alt="visitor badge"/>
+</p>
+
+---
+
 ### 👩‍💻 Hakkımda
 Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemleri geliştirmeye odaklanan bir yazılım geliştiricisiyim.  
 Özellikle React ve ASP.NET Core teknolojileriyle çalışıyor, temiz kod ve sürdürülebilir yazılım mimarileri oluşturmaya özen gösteriyorum.
@@ -61,9 +75,9 @@ Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemler
 ### 📫 Bana Ulaşın
 
 <p align="left">
-  <a href="mailto:ilknrgzl99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ilknrgzl"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ilknrgzll"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:ilknrgzl99@gmail.com"><img src="https://img.shields.io/badge/E-posta-Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ilknrgzl"><img src="https://img.shields.io/badge/LinkedIn-Profili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ilknrgzll"><img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
