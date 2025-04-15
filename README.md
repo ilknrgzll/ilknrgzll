@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <i>"Kod yazmak, görünmeyeni görünür kılmaktır."</i>
+  <i>"Kod yazmak, görünmeyeni görünür kılmaktır...adeta büyü yapmak gibi!"</i>
 </p>
 
 ---
