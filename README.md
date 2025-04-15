@@ -67,10 +67,8 @@ Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemler
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical" width="48%" />
 </p>
-
----
 
 ### 📫 Bana Ulaşın
 
