@@ -9,6 +9,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=DD66CC&size=25&center=true&vCenter=true&width=450&lines=Merhaba+ben+İlknur!;Full+Stack+Developer;React+%2F+.NET+Core+Tutkunu;Projelerimi+incelemeyi+unutma!" />
 </p>
+---
+### 👩‍💻 Hakkımda
+Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemleri geliştirmeye odaklanan bir yazılım geliştiricisiyim.  
+Özellikle React ve ASP.NET Core teknolojileriyle çalışıyor, temiz kod ve sürdürülebilir yazılım mimarileri oluşturmaya özen gösteriyorum.
 
 ---
 
@@ -19,11 +23,6 @@
 
 ---
 
-### 👩‍💻 Hakkımda
-Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemleri geliştirmeye odaklanan bir yazılım geliştiricisiyim.  
-Özellikle React ve ASP.NET Core teknolojileriyle çalışıyor, temiz kod ve sürdürülebilir yazılım mimarileri oluşturmaya özen gösteriyorum.
-
----
 
 ### 🔧 Kullandığım Teknolojiler
 
@@ -49,15 +48,6 @@ Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemler
 
 ---
 
-### 📌 Öne Çıkan Projelerim
-
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| [🛡️ Şikayet Yönetim Sistemi](https://github.com/ilknrgzll/ComplaintProject) | Şikayet kayıtlarının takibi ve yönetimi | React, ASP.NET Core, SQL Server |
-| [🛍️ Trendyol Entegrasyon API](https://github.com/ilknrgzll/TrendyolAPI) | Trendyol ile ürün ve sipariş entegrasyonu | .NET 7, RESTful API, JWT |
-| [💳 Ödeme Kayıt Sistemi](https://github.com/ilknrgzll/OdemeKayitSistemi) | Ödeme bilgilerini güvenli şekilde kayıt altına alan sistem | ASP.NET Core, EF Core, AutoMapper |
-
----
 ### 📊 GitHub İstatistiklerim ve Kullanılan Diller
 
 <p align="center">
