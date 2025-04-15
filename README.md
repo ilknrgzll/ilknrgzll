@@ -10,8 +10,7 @@
 ---
 
 ### 👩‍💻 Hakkımda
-Merhaba! Ben İlknur, kullanıcı dostu arayüzler ve güçlü backend sistemleri geliştirmeye odaklanan bir yazılım geliştiricisiyim.  
-React ve ASP.NET Core teknolojileriyle çalışıyor, temiz kod ve sürdürülebilir yazılım mimarileri oluşturmaya özen gösteriyorum.
+Ben İlknur Güzel, Bilgisayar Mühendisliği eğitimi alarak teorik bilgilerimi sürekli geliştiriyor ve bu bilgileri pratikte pekiştiriyorum. Yazılım geliştirme yolculuğumda, yüksek performanslı ve düzenli bir mimariye sahip uygulamalar geliştirme konusunda deneyim kazandım. Teknolojiye olan ilgim ve merakım, her zaman yeni şeyler öğrenmeye ve kendimi geliştirmeye yönelik bir motivasyon kaynağım oldu. Takım çalışmalarında güçlü bir işbirliği yeteneğimle öne çıkarım. Yazılım geliştirme sürecinde, kodun bir sanat olduğunu düşünüyor ve her projeye tutkuyla yaklaşırım.
 
 ---
 
