@@ -21,6 +21,7 @@ React ve ASP.NET Core teknolojileriyle çalışıyor, temiz kod ve sürdürüleb
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilknrgzll&theme=radical&hide_title=true" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical&hide_title=true" width="32%" />
 </p>
+
 ---
 
 ### 📫 Bana Ulaşın
