@@ -1,7 +1,7 @@
 <h1 align="center">✨ İlknur Güzel ✨</h1>
 
 <p align="center">
-  Full Stack Developer | React & .NET Core | Teknoloji Tutkunu
+  Full Stack Developer | Teknoloji Tutkunu
 </p>
 
 <p align="center">
