@@ -27,11 +27,6 @@ Yazılım geliştirme sürecinde, kodun bir sanat olduğunu düşünüyor ve her
 
 ---
 
-### 🐍 Katkı Haritası (GitHub Snake)
-
-![snake gif](https://github.com/ilknrgzll/ilknrgzll/blob/output/github-contribution-grid-snake.svg)
-
----
 ### 📫 Bana Ulaşın
 
 <p align="center">
