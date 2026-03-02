@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Engineering Student  
+- 🎓 Computer Engineering   
 - 💻 Passionate about Full Stack Development  
 - 🚀 Building scalable and maintainable systems  
 - 📊 Interested in performance tracking & productivity systems  
