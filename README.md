@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Engineering student focused on building scalable and maintainable full-stack applications.
+I am a Computer Engineering focused on building scalable and maintainable full-stack applications.
 
 - 🚀 Passionate about backend architecture  
 - 🧠 Interested in performance tracking systems  
