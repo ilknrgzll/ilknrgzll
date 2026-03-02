@@ -1,33 +1,23 @@
 <h1 align="center">
-  Hi 👋, I'm İlknur Güzel
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+İlknur+Güzel;Full+Stack+Developer;ASP.NET+Core+%7C+React;Building+Scalable+Systems" />
 </h1>
-
-<h3 align="center">
-  Full Stack Developer | .NET & React Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;ASP.NET+Core+Developer;React+Frontend+Engineer;Always+Learning+New+Technologies" />
-</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Engineering   
-- 💻 Passionate about Full Stack Development  
-- 🚀 Building scalable and maintainable systems  
-- 📊 Interested in performance tracking & productivity systems  
-- 🧠 Constantly learning and improving  
+- 🎓 Computer Engineering Student  
+- 💻 .NET & React Developer  
+- 🚀 Passionate about scalable backend systems  
+- 📊 Building performance tracking solutions  
+- 🧠 Lifelong learner  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,ts,html,css,bootstrap,mysql,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,ts,html,css,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -35,8 +25,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilknrgzll&show_icons=true&theme=github_dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilknrgzll&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 ---
@@ -44,7 +34,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilknrgzll&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilknrgzll&theme=tokyo-night&area=true" />
 </p>
 
 ---
@@ -74,5 +64,5 @@
 ---
 
 <p align="center">
-  ✨ “Code is not just logic. It's creativity engineered.” ✨
+  ✨ Code is not magic. It's structured creativity. ✨
 </p>
