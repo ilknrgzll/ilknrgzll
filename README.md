@@ -1,75 +1,64 @@
-<h1 align="center">İlknur Güzel</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+İlknur+Güzel;Full+Stack+Developer;ASP.NET+Core+%7C+React;Building+Scalable+Systems" />
+</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> <br/>
-  ASP.NET Core • React • Clean Architecture
-</p>
-
-<p align="center">
-  "Building systems that are structured, scalable and meaningful."
+  <a href="mailto:ilknrgzl99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilknrgzl/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ilknrgzl">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Engineering focused on building scalable full-stack applications.  
-I enjoy designing clean backend architectures and creating responsive, user-friendly frontend interfaces.
+I am a Computer Engineering student focused on building scalable and maintainable full-stack applications.
 
-- 🔹 Backend: ASP.NET Core, Entity Framework Core
-- 🔹 Frontend: React, Redux Toolkit
-- 🔹 Database: SQL Server, MySQL
-- 🔹 Architecture: Clean Architecture, Layered Design
-- 🔹 Focus Area: Performance tracking & productivity systems
+- 🚀 Passionate about backend architecture  
+- 🧠 Interested in performance tracking systems  
+- ⚙️ Building structured and clean codebases  
+- 📊 Focused on productivity-driven applications  
 
 ---
 
 ## 🚀 Featured Project
 
 ### 📊 Daily Work Tracking System
-A full-stack employee performance tracking system that:
 
-- Tracks daily tasks  
-- Calculates performance scores  
-- Monitors productivity metrics  
-- Provides KPI-based evaluation  
-- Generates analytical reports  
+A full-stack employee performance tracking system built with **ASP.NET Core + React**.
 
-**Tech Stack:** ASP.NET Core + React + SQL Server
+✔ Track daily tasks  
+✔ Calculate performance scores  
+✔ KPI-based productivity analysis  
+✔ Generate analytical reports  
+✔ Role-based authentication (JWT)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- REST API
-- JWT Authentication
-
-**Frontend**
-- React
-- Redux Toolkit
-- TypeScript
-- HTML / CSS / Bootstrap
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Visual Studio
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,redux,ts,js,html,css,bootstrap,mysql,git,github,vscode,visualstudio" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📈 What I Focus On
 
-- 📧 Email: ilknrgzl99@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ilknrgzl/
-- ✍ Medium: https://medium.com/@ilknrgzl
+- Clean Architecture
+- RESTful API Design
+- Scalable Backend Systems
+- Performance Optimization
+- Modern Frontend State Management
 
 ---
 
 <p align="center">
-  ✨ Code is not magic. It is disciplined creativity. ✨
+  <b>✨ Code is structured creativity engineered with discipline. ✨</b>
 </p>
