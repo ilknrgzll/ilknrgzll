@@ -65,9 +65,9 @@ const ilknur: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ilknrgzll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilknrgzll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=8"/>
 
 </div>
 
