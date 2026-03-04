@@ -1,8 +1,5 @@
-<h1 align="center">✨ İlknur Güzel ✨</h1>
-
-<p align="center">
-  Full Stack Developer 
-</p>
+<h1 align="center">Hi 👋 I'm İlknur Güzel</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <i>"Kod yazmak, görünmeyeni görünür kılmak... adeta büyü yapmak gibidir."</i>
@@ -10,33 +7,59 @@
 
 ---
 
-### 👩‍💻 Hakkımda
+## 👩‍💻 About Me
 
-Ben İlknur Güzel, Bilgisayar Mühendisliği eğitimi alarak teorik bilgilerimi sürekli geliştiriyor ve bu bilgileri pratikte pekiştiriyorum. 🚀  
-Teknolojiye olan ilgim ve merakım, her zaman yeni şeyler öğrenmeye ve kendimi geliştirmeye yönelik bir motivasyon kaynağım oldu.  
-Yazılım geliştirme sürecinde, kodun bir sanat olduğunu düşünüyor ve her projeye tutkuyla yaklaşırım... ❤️💻
+- 🎓 Computer Engineering Student  
+- 💻 Passionate about **Full Stack Development**  
+- 🚀 Constantly learning new technologies  
+- ❤️ I believe coding is both **logic and art**
 
 ---
 
-### 📊 GitHub İstatistikleri
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilknrgzll&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical&hide_title=true&langs_count=6" width="48%"/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,bootstrap,mysql,git,github,vscode,visualstudio" />
+
 </p>
 
 ---
 
-### 📫 Bana Ulaşın
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:ilknrgzl99@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ilknrgzl/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://medium.com/@ilknrgzl">
-    <img alt="Medium" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium">
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=ilknrgzll&show_icons=true&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilknrgzll&theme=github-dark"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ilknrgzl99@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ilknrgzl/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://medium.com/@ilknrgzl">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
 </p>
