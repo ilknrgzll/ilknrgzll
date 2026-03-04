@@ -8,12 +8,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=E94560&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+React+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
 "Kod yazmak, görünmeyeni görünür kılmak...
 adeta büyü yapmak gibidir."
 
-</div>
+</div> -->
 
 ---
 
