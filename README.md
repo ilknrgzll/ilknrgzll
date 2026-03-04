@@ -20,7 +20,7 @@
 
 ```typescript
 const ilknur: Developer = {
-  education : "Bilgisayar Mühendisliği Öğrencisi",
+  education : "Bilgisayar Mühendisi",
   role      : "Full Stack Developer",
   passion   : ["Temiz Kod", "Modern UI", "Ölçeklenebilir Sistemler"],
   mantra    : "Kod hem mantık hem de sanattır.",
