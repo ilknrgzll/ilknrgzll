@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- Animated header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=İlknur%20Güzel&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descColor=a8b2d8"/>
 
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=E94560&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+React+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies"/>
+</p>
+
 <div align="center">
 
-```
 "Kod yazmak, görünmeyeni görünür kılmak...
-        adeta büyü yapmak gibidir."
-```
+adeta büyü yapmak gibidir."
 
 </div>
 
