@@ -20,7 +20,7 @@
 
 ```typescript
 const ilknur: Developer = {
-  education : "Bilgisayar Mühendisliği Öğrencisi",
+  education : "Bilgisayar Mühendisi",
   role      : "Full Stack Developer",
   passion   : ["Temiz Kod", "Modern UI", "Ölçeklenebilir Sistemler"],
   mantra    : "Kod hem mantık hem de sanattır.",
@@ -61,15 +61,11 @@ const ilknur: Developer = {
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Serisi
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilknrgzll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknrgzll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=8"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ilknrgzll&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -80,6 +76,13 @@ const ilknur: Developer = {
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilknrgzll&theme=github-dark&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&hide_border=true"/>
 
 </div>
+
+---
+## 👁 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ilknrgzll&label=Profile%20Views&color=e94560&style=for-the-badge"/>
+</p>
 
 ---
 
